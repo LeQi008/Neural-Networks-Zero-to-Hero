@@ -11,5 +11,5 @@ The code here primarily consists of implementations and exercises from Karpathyâ
 3. Activations & Gradients, BatchNorm
 4. Manual Backprop
 5. WaveNet
-6. GPT Self-attention
+6. GPT Transformer (Decoder)
 7. GPT Tokenizer
